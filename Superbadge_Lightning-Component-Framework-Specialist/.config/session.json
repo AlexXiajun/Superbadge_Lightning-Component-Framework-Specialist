@@ -1,0 +1,17 @@
+{
+    "success": true, 
+    "instance_url": "https://playful-bear-elrsna-dev-ed.my.salesforce.com", 
+    "headers": {
+        "Accept": "application/json", 
+        "Content-Type": "application/json; charset=UTF-8", 
+        "Authorization": "OAuth 00D0o0000019ZPc!AQUAQNZUpFWAMElMuHhfMQpyXZXNT2TkPlnDecW7COn.oV_BxTjNKWiicJCpQ18ir5.3gKine5RnWECsDbnw0QTMNxJRgWvp"
+    }, 
+    "partner_url": "https://playful-bear-elrsna-dev-ed.my.salesforce.com/services/Soap/u/35.0", 
+    "user_id": "0050o00000V5aZBAAZ", 
+    "session_id": "00D0o0000019ZPc!AQUAQNZUpFWAMElMuHhfMQpyXZXNT2TkPlnDecW7COn.oV_BxTjNKWiicJCpQ18ir5.3gKine5RnWECsDbnw0QTMNxJRgWvp", 
+    "project name": "Superbadge_Lightning-Component-Framework-Specialist", 
+    "time_stamp": "2018-12-13 17:29:21", 
+    "apex_url": "https://playful-bear-elrsna-dev-ed.my.salesforce.com/services/Soap/s/35.0", 
+    "rest_url": "https://playful-bear-elrsna-dev-ed.my.salesforce.com/services/data/v35.0", 
+    "metadata_url": "https://playful-bear-elrsna-dev-ed.my.salesforce.com/services/Soap/m/35.0"
+}
